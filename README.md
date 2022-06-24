@@ -39,21 +39,3 @@
     </footer>
   </body>
 </html>
-#style.css
-body {
-    font-family: sans-serif;
-    background-image: linear-gradient( to right,lightblue,blue);
-}
-p{
-    color:black;
-    text-align: left;
-}
-footer{
-    text-align: left;
-}
-h1{
-    text-align: left;
-}
-header{
-    text-align: left;
-}
